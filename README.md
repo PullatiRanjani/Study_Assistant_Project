@@ -1,4 +1,4 @@
-🎓 Study Assistant (Sarvam AI Flask API)
+   # 🎓 Study Assistant (Sarvam AI Flask API)
 
 A simple Study Assistant API built using Flask that integrates with Sarvam AI services to provide language translation, text-to-speech, and speech-to-text features. The API can be tested using Postman.
 
