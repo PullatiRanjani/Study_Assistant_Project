@@ -28,7 +28,7 @@ Postman
 
 ## ▶ How to Run
 
-1️⃣ Create Virtual Environment
+### 1️⃣ Create Virtual Environment
 
 python -m venv venv
 
@@ -37,24 +37,24 @@ Activate it (Windows)
 venv\Scripts\activate
 
 
-2️⃣ Install Dependencies
+### 2️⃣ Install Dependencies
 
 pip install -r requirements.txt
 
 
-3️⃣ Add API Key
+### 3️⃣ Add API Key
 
 Create a .env file
 
 SARVAM_API_KEY=your_api_key_here
 
 
-4️⃣ Run the Application
+### 4️⃣ Run the Application
 
 python app.py
 
 
-5️⃣ Server Runs At
+### 5️⃣ Server Runs At
 
 http://127.0.0.1:5001/
 
@@ -62,14 +62,14 @@ http://127.0.0.1:5001/
 
 ## 📡 API Endpoints
 
-Home
+### Home
 
 GET /
 
 Returns API status message.
 
 
-Translate Text
+### Translate Text
 
 POST /translate
 
@@ -82,7 +82,7 @@ Body Example
 }
 
 
-Text to Speech
+### Text to Speech
 
 POST /tts
 
@@ -94,7 +94,7 @@ Body Example
 }
 
 
-Speech to Text
+### Speech to Text
 
 POST /stt
 
@@ -116,23 +116,23 @@ study-assistant/
 ## 🌍 Push Project to GitHub
 
 
-1️⃣ Initialize Git
+### 1️⃣ Initialize Git
 
 git init
 
-2️⃣ Add Files
+### 2️⃣ Add Files
 
 git add .
 
-3️⃣ Commit
+### 3️⃣ Commit
 
 git commit -m "Initial commit"
 
-4️⃣ Connect GitHub Repository
+### 4️⃣ Connect GitHub Repository
 
 git remote add origin https://github.com/yourusername/study-assistant.git
 
-5️⃣ Push to GitHub
+### 5️⃣ Push to GitHub
 
 git branch -M main
 git push -u origin main
