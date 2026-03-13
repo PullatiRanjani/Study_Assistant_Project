@@ -2,7 +2,7 @@
 
 A simple Study Assistant API built using Flask that integrates with Sarvam AI services to provide language translation, text-to-speech, and speech-to-text features. The API can be tested using Postman.
 
-
+---
 
 ## 🚀 Features
 
@@ -13,7 +13,7 @@ A simple Study Assistant API built using Flask that integrates with Sarvam AI se
 🔐 Secure API key using .env file
 🧪 API testing using Postman
 
-
+---
 
 ## 🛠 Tech Stack
 
@@ -24,7 +24,7 @@ Requests Library
 Python-dotenv
 Postman
 
-
+---
 
 ## ▶ How to Run
 
@@ -58,7 +58,7 @@ python app.py
 
 http://127.0.0.1:5001/
 
-
+---
 
 ## 📡 API Endpoints
 
@@ -100,7 +100,7 @@ POST /stt
 
 Upload an audio file using Postman.
 
-
+---
 
 ## 📁 Project Structure
 
@@ -111,7 +111,7 @@ study-assistant/
 ├── .env
 └── README.md
 
-
+---
 
 ## 🌍 Push Project to GitHub
 
@@ -137,12 +137,13 @@ git remote add origin https://github.com/yourusername/study-assistant.git
 git branch -M main
 git push -u origin main
 
-
+---
 
 ## 👩‍💻 Author
 
 Ranjani
 
+---
 
 ## ⭐ Future Improvements
 
