@@ -3,7 +3,8 @@
 A simple Study Assistant API built using Flask that integrates with Sarvam AI services to provide language translation, text-to-speech, and speech-to-text features. The API can be tested using Postman.
 
 
-🚀 Features
+
+## 🚀 Features
 
 🌍 Text Translation API
 🔊 Text to Speech (TTS)
@@ -13,7 +14,8 @@ A simple Study Assistant API built using Flask that integrates with Sarvam AI se
 🧪 API testing using Postman
 
 
-🛠 Tech Stack
+
+## 🛠 Tech Stack
 
 Python
 Flask
@@ -23,7 +25,8 @@ Python-dotenv
 Postman
 
 
-▶ How to Run
+
+## ▶ How to Run
 
 1️⃣ Create Virtual Environment
 
@@ -56,7 +59,8 @@ python app.py
 http://127.0.0.1:5001/
 
 
-📡 API Endpoints
+
+## 📡 API Endpoints
 
 Home
 
@@ -97,7 +101,8 @@ POST /stt
 Upload an audio file using Postman.
 
 
-📁 Project Structure
+
+## 📁 Project Structure
 
 study-assistant/
 │
@@ -107,7 +112,9 @@ study-assistant/
 └── README.md
 
 
-🌍 Push Project to GitHub
+
+## 🌍 Push Project to GitHub
+
 
 1️⃣ Initialize Git
 
@@ -131,16 +138,18 @@ git branch -M main
 git push -u origin main
 
 
-👩‍💻 Author
+
+## 👩‍💻 Author
 
 Ranjani
 
 
-⭐ Future Improvements
+## ⭐ Future Improvements
+
 
 📄 Add PDF reading with TTS
 🌐 Add more language support
 📱 Build frontend interface
 ☁ Deploy to cloud (Render / Railway)
 
-If you want, I can also show you 2 small changes that make your README look much more professional than most student projects (with badges and sections).
+
