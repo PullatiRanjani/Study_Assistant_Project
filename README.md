@@ -6,12 +6,12 @@ A simple Study Assistant API built using Flask that integrates with Sarvam AI se
 
 ## 🚀 Features
 
-🌍 Text Translation API
-🔊 Text to Speech (TTS)
-🎤 Speech to Text (STT)
-⚡ REST API built with Flask
-🔐 Secure API key using .env file
-🧪 API testing using Postman
+- 🌍 Text Translation API
+- 🔊 Text to Speech (TTS)
+- 🎤 Speech to Text (STT)
+- ⚡ REST API built with Flask
+- 🔐 Secure API key using .env file
+- 🧪 API testing using Postman
 
 ---
 
