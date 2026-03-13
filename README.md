@@ -17,12 +17,12 @@ A simple Study Assistant API built using Flask that integrates with Sarvam AI se
 
 ## 🛠 Tech Stack
 
-Python
-Flask
-Sarvam AI API
-Requests Library
-Python-dotenv
-Postman
+- Python
+- Flask
+- Sarvam AI API
+- Requests Library
+- Python-dotenv
+- Postman
 
 ---
 
