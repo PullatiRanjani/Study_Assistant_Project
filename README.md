@@ -148,9 +148,9 @@ Ranjani
 ## ⭐ Future Improvements
 
 
-📄 Add PDF reading with TTS
-🌐 Add more language support
-📱 Build frontend interface
-☁ Deploy to cloud (Render / Railway)
+- 📄 Add PDF reading with TTS
+- 🌐 Add more language support
+- 📱 Build frontend interface
+- ☁ Deploy to cloud (Render / Railway)
 
 
